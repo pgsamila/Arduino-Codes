@@ -1,0 +1,19 @@
+LED DISPLAY
+	11,10,9,8,7,6
+
+MOTOR CONTROL
+	31,33,35,37
+	2,3
+
+SENSOR
+	FORWORD
+		A0-A7
+	BACK
+		A8-A12
+	MIDDEL
+		A13-A15
+Sonar
+        Echo    12
+        Triger  13
+
+
